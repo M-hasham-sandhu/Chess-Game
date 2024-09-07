@@ -4505,7 +4505,7 @@ void load_game(char chess[][8], char sp[], char dp[], char &user, int &w_king_mo
 	}
 }
 void display_options(char chess[][8], char sp[], char dp[], char &users,int &w_king_moves,int & b_king_moves){
-	cout << endl << "	Welcome to Chess!!" << endl << "		by Usama Waseem" << endl << endl;
+	cout << endl << "	Welcome to Chess!!" << endl << "		by Muhammad Hasham" << endl << endl;
 	cout << endl << "Do you want to start a new game or load your previous game? " << endl;
 	cout << " 1 : start a new game" << endl;
 	cout << " 2 : load previous game" << endl;
